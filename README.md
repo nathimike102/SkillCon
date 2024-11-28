@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>SkillBridge - AI-Powered Volunteer Matching Platform</h1>
+    <h1>SkillCon - AI-Powered Volunteer Matching Platform</h1>
     <h2>Core Features:</h2>
     <h3>Intelligent Volunteer-Nonprofit Matching</h3>
     <ul>
